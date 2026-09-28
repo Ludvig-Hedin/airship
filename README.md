@@ -1,3 +1,5 @@
+> **Moved.** Weblab for Mac now lives in [Ludvig-Hedin/Weblab](https://github.com/Ludvig-Hedin/Weblab) under [`apps/desktop-local`](https://github.com/Ludvig-Hedin/Weblab/tree/main/apps/desktop-local), with its full history. New releases are published there. This repo is kept for reference.
+
 # Airship
 
 [![npm](https://img.shields.io/npm/v/@airshiplabs/cli)](https://www.npmjs.com/package/@airshiplabs/cli)
